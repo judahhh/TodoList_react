@@ -1,0 +1,24 @@
+.TodoInput {
+  text-align: center;
+}
+.TodoInput input {
+  width: 250px;
+  height: 40px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+  padding: 0 15px;
+  border: 1px solid #dcdcdc;
+  vertical-align: top;
+  border-radius: 3px;
+}
+.TodoInput input:focus {
+  outline: none;
+}
+.TodoInput button {
+  border: none;
+  color: rgb(140, 155, 179);
+  margin-left: 45px;
+}
+.TodoInput .icon {
+  color: rgb(110, 115, 153);
+}
